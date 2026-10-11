@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: water_reading_with_ollama
